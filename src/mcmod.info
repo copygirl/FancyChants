@@ -1,0 +1,9 @@
+[
+  {
+    "modid": "fancychants",
+    "name": "FancyChants",
+    "version": "@VERSION@",
+    "description": "Adds more enchantments, some unique, some familiar.",
+    "authors": [ "copygirl" ]
+  }
+]
